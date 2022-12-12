@@ -1,4 +1,4 @@
-# Volcano Classification
+# Volcano Classification🌋
 
 
 This is a Volcano Detection and Classification challenge.
