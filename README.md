@@ -23,7 +23,7 @@ Second part is to classify the type of detected volcano.
 
 # Final thoughts
 The classes had imbalance and I approached it in 2 ways: 
-- First the data as a fixed component and try better models as well as more suitable evaluation metrics for imbalance
+- First accept the data as a fixed component and try models that are prune to imbalance in datasets (like tree boosted models or powerful feature extractors) as well as more suitable evaluation metrics for imbalance
 - Second keep models as fixed component and try Upsampling underrepresented classes, follow up with cross validation, generate new images with image processing techniques like add noise, change brightness, rotate etc.
 
 
